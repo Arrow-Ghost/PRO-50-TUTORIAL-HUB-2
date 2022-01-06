@@ -33,7 +33,7 @@ body {
 .card{
   float:left;
   border-radius: 20px;
-  background-color: #0000FF;
+  background-color: blue;
   margin: 5px;
   text-align: center;
   font-family: sans-serif;
@@ -41,7 +41,7 @@ body {
 .hat{
   float:left;
   border-radius: 20px;
-  background-color: #FFA500;
+  background-color: orange;
   margin: 5px;
   text-align: center;
   font-family: sans-serif;
